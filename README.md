@@ -22,7 +22,7 @@
 - [DOMParser](https://developer.mozilla.org/ko/docs/Web/API/DOMParser)
 - [DOMParser test](http://codepen.io/anon/pen/JNjBmd?editors=1111)
 - [Javascript-template-engine-in-just-20-line](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
-- [TemplateEngine](https://github.com/krasimir/absurd/commits/master/lib/processors/html/helpers/TemplateEngine.js)
+- [TemplateEngine](https://github.com/krasimir/absurd/blob/master/lib/processors/html/helpers/TemplateEngine.js)
 
 ### CSS
 
